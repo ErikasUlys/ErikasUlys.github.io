@@ -1,0 +1,68 @@
+body{
+    background-image: url("fonas3.jpg");
+    
+}
+
+.antraste{
+    text-align: center;
+    font-size: 3em;
+    margin: 100px;
+    color: white;
+}
+
+.antraste1{
+    text-align: center;
+    margin: none;
+    margin-bottom: 50px;
+    color: white;
+}
+
+table{
+    margin: auto;
+    width: 60%;
+    border: 5px solid rgb(105, 105, 105);
+    background-color: black;
+}
+
+table td{
+    border: 2px solid rgb(105, 105, 105);
+    font-size: 30px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}
+
+.photo{
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.du{
+    height: 75px;
+}
+
+a:visited{
+    color: white; 
+    }
+
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: lime;
+}
+
+#vardas{
+    margin: 100px;
+    margin-top: 150px;
+    font-family: cursive;
+    text-align: right;
+}
+
+.pusl {
+    text-align: center;
+    font-size: 2em;
+}
