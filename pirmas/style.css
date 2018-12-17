@@ -1,0 +1,159 @@
+body{
+    margin: 0px;
+    background-color: #f7ffe6;
+    }
+    
+    .virsus{
+    background-image: url("bambi-corro-278210-unsplash.jpg");
+    background-size: 100% 150%;
+    padding: 12em;
+    }
+    
+    .antraste{
+    font-family: Lucida Bright;
+    color: white;
+    }
+
+    h1{
+    font-size: 5em;
+    margin: 20px 0px 20px 300px;
+text-align: left;
+background-color: rgb(128,128,128, 0.6);
+width: 680px;
+
+    }
+
+h3{
+margin: 20px 0px 20px 500px;
+font-size: 2em;
+text-align: left;
+background-color: rgb(128,128,128, 0.6);
+width: 650px;
+}
+
+h2{
+text-align: center;
+color: #DAA520;
+}
+
+img{
+width: 100%;
+height: 100%;
+}
+    
+    .tekstas{
+    height: 400px;
+    }
+
+.tekstas2{
+height: 400px;
+}
+
+.tekstas2 .vidus{
+background-color: white;
+}
+
+.tekstas2 .first{
+color: black;
+}
+
+.vidus{
+float: left;
+width: 55%;
+background-color: #292929;
+height: 100%;
+}
+
+    .first{
+    text-align: center;
+margin: 30px;
+color: white;
+    }
+
+    .second{
+    float: left;
+    width: 45%;
+height: 100%;
+    }
+    
+    .pradzia{
+    text-align: center;
+margin: 40px 40px;
+font-size: 25px;
+    height: 500px; 
+    }
+
+.apacia{
+height: 100px;
+}
+
+footer{
+    background-color: #000000;
+height: 270px;
+    color: white;
+    }
+
+.papildoma{
+float: left;
+margin: 30px 150px 30px 300px;
+width: 25%;
+text-align: left;
+}
+
+.kontaktai{
+float: left;
+margin: 30px 0px 30px 250px;
+width: 25%;
+text-align: left;
+}
+
+a:visited{
+color: white; 
+}
+a:link{
+    text-decoration: none;
+    color: limegreen;
+}
+a:hover{
+color: red;
+}
+
+#vardas{
+font: italic 15px Georgia, serif;
+}
+
+.citata{
+margin: 100px 400px;
+font-size: 40px;
+font-family: cursive;
+color: #004D40;
+}
+
+table td{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+table{
+    margin: auto;
+    width: 70%;
+    border: 1px solid black;
+}
+
+.vienas{
+    height: 200px;
+    background-color: #004D40;
+}
+
+.du{
+    height: 150px;
+    vertical-align: top;
+    background-color: green;
+}
+
+.photo{
+    height: 200px;
+    vertical-align: middle;
+}
